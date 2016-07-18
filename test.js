@@ -1,5 +1,5 @@
-const str = '0/1 ======== hello world';
-console.log(str);
+//const str = '0/1 ====!!==== hello world';
+//console.log(str);
 //
 //const http = require('http');
 //
@@ -9,7 +9,7 @@ console.log(str);
 //const server = http.createServer(function(req, res){
 //    res.statusCode = 200;
 //    res.setHeader('Content-Type', 'text/plain');
-//    res.end('Hello World!!!');
+//    res.end('ww---hello world!');
 //});
 //
 //server.listen(port, hostname, function() {
