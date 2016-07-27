@@ -1,10 +1,10 @@
 var path = require('path');
 
 module.exports = {
-    entry: './js/index2.js',
+    entry: './js/index3.js',
     output: {
         path: path.join(__dirname, '/dist'),
-        filename: 'bundle.js'
+        filename: 'index3.js'
     },
     resolve: {
         extensions: ['', '.js', '.jsx']
